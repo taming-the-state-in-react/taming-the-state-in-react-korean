@@ -1,5 +1,5 @@
-## Copyright
+## 저작권
 
-* © 2017 Robin Wieruch
-* Website: https://www.robinwieruch.de
-* Course: https://roadtoreact.com
+* © 2017 로빈 위워크(Robin Wieruch)
+* 웹 사이트: https://www.robinwieruch.de
+* 강의: https://roadtoreact.com

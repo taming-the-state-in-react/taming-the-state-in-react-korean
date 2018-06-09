@@ -1,9 +1,9 @@
-# Local State Management
+# 2. 내부 상태 관리
 
-This chapter will guide you through state management in React without taking any external state management library into account. You will revisit state management in React with only `this.setState()` and `this.state`. It enables you to build medium sized applications without complicating and over-engineering it. It is important to remember this statement: Not every application needs external state management in the first place. I can tell you from experience that many companies out there went all in with React and Redux, only to recognize that they didn't need Redux for their application. It didn't have the complexity to introduce external libraries for it. React's state management would have been sufficient.
+이번 장은 외부 상태 관리 도구를 도입하지 않고 리액트 상태 관리를 하는 방법을 알아봅니다. 소규모의 리액트 애플리케이션의 경우 `this.setState()`와 `this.state` 만으로도 개발해도 문제가 없습니다. 모든 애플리케이션에서 외부 상태 관리 도구가 필요한 것은 아닙니다. 실제로 많은 회사들이 리액트와 리덕스를 모두 도입하고 나서야 정작 리덕스가 필요없다는 사실을 나중에 깨닫게 되었다고 말합니다. 외부 상태 관리 라이브러리를 도입하는 것은 어려운 일이 아닙니다. 순수한 리액트만으로 내부 상태 관리를 하는 것도 충분합니다.
 
-By revisiting the topic of local state management in React, you will get to know how to use the local state for React applications which don't need a state management library such as Redux. The chapter guides you through important topics when dealing with state in React: controlled components, unidirectional data flow and asynchronous state. It will teach you all these necessary topics before diving into state management with an external state management library.
+리액트 내부 상태 관리를 제대로 알고나면 리덕스가 없는 리액트 애플리케이션에서 어떻게 내부 상태 관리를 다루는지 알게 됩니다. 이번 장에서는 제어된 컴포넌트, 단방향 데이터 흐름 및 비동기에서 상태를 처리하는 방법을 배울 것입니다. 외부 상태 관리 도구를 배우기 전에 꼭 알아야할 내용입니다.
 
-After revisiting the local state in React, you will get to know best practices and patterns to scale your state management when using only local state. Even though you are not dependent on external state management solutions yet, you can use a handful of those techniques to scale state management with external libraries, too, which are described later on in this book.
+또한 내부 상태만 사용하여 개발할 때 모범 사례와 패턴도 배울 것입니다. 외부 상태 관리 도구에 의존하지 않더라도, 이번 장에서 배운 테크닉은 이 책의 뒷 부분에서 외부 상태 라이브러리로 상태 관리를 확장할 때 적용됩니다.
 
-At the end of the chapter, you will get to know the limits of local state management in React. The topic itself is highly discussed in the community as you will learn in one of the final lessons of this chapter. The chapter concludes in the problem of local state management to give you a motivation to dive into one of the external state management solutions.
+이 장을 마치고 나면 리액트에서 내부 상태 관리가 한계가 있다는 것을 깨닫게 될 것입니다. 리액트 상태 관리는 리액트 커뮤니티 내에서 활발하게 논의되고 있는 주제입니다. 이번 장을 마치고 나면 여러분 스스로 외부 상태 관리 도구 도입의 필요성을 느끼게 될 것입니다.

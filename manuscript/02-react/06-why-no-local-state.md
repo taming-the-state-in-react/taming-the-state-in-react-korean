@@ -1,4 +1,4 @@
-## Transition to Sophisticated State
+## 3.5 Transition to Sophisticated State
 
 By now you have learned about the basics in local state management and how to scale it in a growing application with a variety of techniques and best practices. These learnings should give you a great surface area to apply them in your applications to scale state management without using a sophisticated state management library and by only using local state. So what's next in this book? The following chapters will give you a transition from local state management to sophisticated state management.
 

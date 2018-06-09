@@ -1,4 +1,4 @@
-# Redux
+# 3. Redux
 
 Redux is one of the libraries that helps you implement sophisticated state management in your applications. It goes beyond the local state (e.g. React's local state). It is one of the solutions you would take in a scaling application in order to tame the state. A React application is a perfect fit for Redux, yet other libraries and frameworks highly adopted its concepts as well.
 

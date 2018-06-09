@@ -1,4 +1,4 @@
-# Beyond Redux and MobX
+# 7. Beyond Redux and MobX
 
 So far, the book has taught you different approaches of state management. Whether you are using React, an alternative view layer library or a sophisticated SPA library; most of them will come with a built-in solution to deal with local state. The book has shown you React's local state management and demonstrated approaches to scale it in plain React applications. Afterward, you learned extensively about Redux as sophisticated state management library. It can be used in combination with any view layer or SPA library. The book has taught you how to use it in React applications, too. As alternative to Redux, you read about MobX as sophisticated state management library. It comes with its own advantages and disadvantages. After all, Redux and MobX give you two different approaches to opt-in sophisticated state management to your application. However, you should never forget about your local state management solution to keep your state coupled to your components rather than exposing it globally in your entire application.
 

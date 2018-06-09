@@ -1,4 +1,4 @@
-## Advanced Actions
+## 3.2 Advanced Actions
 
 You have learned about actions in a previous chapter. However, there are more fine-grained details that I want to cover in this chapter. The same applies for reducers. Both concepts will be covered in the following chapters in more detail. Therefore, it would be a requirement that you feel confident with the learnings from the previous chapter. Not all of the following learnings are mandatory to write applications in Redux, but they teach best practices and common usage patterns. In a larger sized application, you would want to know about these topics.
 

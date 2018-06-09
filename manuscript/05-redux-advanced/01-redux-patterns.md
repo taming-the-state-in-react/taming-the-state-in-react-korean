@@ -1,4 +1,4 @@
-# Redux Patterns, Techniques and Best Practices
+# 5.3 Redux Patterns, Techniques and Best Practices
 
 There are several patterns and best practices that you can apply in a Redux application. I will go through a handful of them to point you in the right direction. However, the evolving patterns and best practices around the ecosystem are changing all the time. You will want to read more about these topics on your own.
 

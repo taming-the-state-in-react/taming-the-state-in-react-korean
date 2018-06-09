@@ -1,10 +1,10 @@
-# Redux State Structure and Retrieval
+# 5. Redux State Structure and Retrieval
 
 In the previous chapters, you have learned about Redux standalone and Redux in React. You would already be able to build smaller and medium sized applications with it. Before you dive deeper into Redux, I recommend you to experiment with your recent learnings and apply them in your applications. If you jump straight into the next chapters, you may get the feeling that Redux is overkill (which it is for most of the applications out there). However, the coming chapters should give you advanced guidance when scaling your state management with Redux in larger applications. There are a couple of techniques you can apply then.
 
 The following chapter guides you through more advanced topics in Redux to manage your state. You will get to know the middleware in Redux, you will learn more about a normalized and immutable state structure, and how to retrieve a substate in an improved way from the global state with selectors.
 
-## Middleware in Redux
+## 5.1 Middleware in Redux
 
 In Redux, you can use a middleware. Every dispatched action in Redux flows through this middleware. You can opt-in a specific feature in between of dispatching an action and the moment it reaches the reducer.
 

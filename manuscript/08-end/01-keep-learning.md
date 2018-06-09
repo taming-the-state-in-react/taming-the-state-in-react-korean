@@ -1,14 +1,14 @@
-## Never stop Learning
+## 8.1 배움을 멈추지 마세요.
 
-I believe there is one secret when it comes to learning. There exists a principle that is called the Learning Pyramid. When you search for it in your favorite search engine, you will definitely find it. Basically, it shows the relation between retention rates and mental activities. For instance, the average student retention when doing lectures is 5%. That's not a good rate at all. Let's see how all the other mental activities break down according to their retention rates:
+배움의 비밀은 무엇일까요? 학습 피라미드(Learning Pyramid) 원칙입니다. 좋아하는 검색 엔진에서 어떤 정보를 찾고 발견합니다. 지속율과 정신 활동 상관 관계를 보여줍니다. 예를 들어 강의만 듣는 경우 학습 지속율은 5%에 그칩니다. 매우 낮은 비율이지요. 이외에 모든 정신 활동이 어떻게 유지율에 따라 분류되는지 봅시다.
 
-* **5% Lecture**
-* **10% Reading** (Uuups!)
-* **20% Audiovisual** (Phew... I hope you have purchased one of the greater packages to have those supplementary learnings too)
-* **30% Demonstration** (Check!)
-* **50% Discussion** (Did I mention that there is a [Slack Group](https://slack-the-road-to-learn-react.wieruch.com/)?)
+* **5% 강의**
+* **10% 읽기** (Uuups!)
+* **20% 시청각 자료** (Phew... I hope you have purchased one of the greater packages to have those supplementary learnings too)
+* **30% 데모 demonstration** (Check!)
+* **50% 토론** (Did I mention that there is a [Slack Group](https://slack-the-road-to-learn-react.wieruch.com/)?)
 * **75% Practice by Doing** (Hopefully you did all the hands-on parts of this books on your own! If you have purchased the Source Code as well, use these to internalize your learnings.)
-* **90% Teach Others** (Join the [Slack Group](https://slack-the-road-to-learn-react.wieruch.com/) to mentor other developers learning about React and its ecosystem!)
+* **90% 다른 사람을 가르침** ([슬랙 그룹](https://slack-the-road-to-learn-react.wieruch.com/)에 가입하고 다른 개발자들의 리액트 학습를 도와주고 리액트 생태계에 기여하세요!)
 
 Perhaps you recall it from somewhere, but it is always refreshing to see it again. In the beginning of the book, I told you that nobody became perfect by reading a book. You have to apply your learnings. I hope that I arranged the book in a way, enabling you with all the techniques and exercises along the way, that you can learn form these experiences. In addition, I gave you some more learning paths to practice by doing in the last chapter.
 

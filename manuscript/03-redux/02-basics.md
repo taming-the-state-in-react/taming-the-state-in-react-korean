@@ -1,4 +1,4 @@
-## Basics in Redux
+## 3.1 리덕스 기초
 
 On the [official Redux website](http://redux.js.org) it says: *"Redux is a predictable state container for JavaScript apps."*. It can be used standalone or in connection with with libraries, like React and Angular, to manage state in JavaScript applications.
 

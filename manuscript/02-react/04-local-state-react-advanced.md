@@ -1,8 +1,8 @@
-## Scaling Local State in React
+## 3. Scaling Local State in React
 
 You should know about all the basics in React's local state management by now. However, you will notice that there are more patterns and best practices out there to apply local state in a scaling application. The following chapter gives you insights into these topics.
 
-### Lifting State
+### 3.1 상태 끌어올리기
 
 In a scaling application, you will notice that you pass a lot of state down to child components as props. These props are often passed down multiple component levels. That's how state is shared vertically in your application. Yet, the other way around, you will notice that more components need to use and thus share the same state. That's how state needs to be shared horizontally across components in your component tree. These two scaling issues, sharing state vertically and horizontally, are common in local state management. Therefore you can lift the state up and down for keeping your local state architecture maintainable. Lifting the state prevents sharing too much or too little state in your component tree. Basically, it is a refactoring that you have to do once in a while to keep your components maintainable and focused on only consuming the state that they need to consume.
 

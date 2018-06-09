@@ -1,4 +1,4 @@
-# Redux in React
+# 4. Redux in React
 
 In the last chapters, you got to know plain Redux. It helps you to manage a predictable state object. However, you want to use this state object in an application eventually. It can be any JavaScript application that has to deal with state management. After all, the principle of Redux could be deployed to any programming language to manage a state object.
 

@@ -1,4 +1,4 @@
-# Asynchronous Redux
+# 5.2 Asynchronous Redux
 
 In the book, you have only used synchronous actions so far. There is no delay of the action dispatching involved. Yet, sometimes you want to delay an action. The example can be a simple one: Imagine you want to have a notification for your application user when a todo item was created. The notification needs to show up, but also should hide after one second. The first action would show the notification, because it sets a `isShowingNotification` property to true in the Redux store. Afterward, you would want to have a delayed second action to hide the notification again. In the simplest case, it would look like the following:
 

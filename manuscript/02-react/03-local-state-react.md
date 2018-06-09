@@ -1,4 +1,4 @@
-## Local State in React
+## 2.2 리액트 내부 상태 관리
 
 The book uses React as view layer for demonstrating the local state in a web application. The following chapter focusses on the local state in React before it dives into sophisticated state management with Redux and MobX. As mentioned, the concept of local state should be known in other SPA solutions, too, and thus be applicable in those solutions.
 

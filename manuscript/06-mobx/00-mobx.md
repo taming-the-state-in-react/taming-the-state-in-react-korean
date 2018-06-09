@@ -1,4 +1,4 @@
-# MobX
+# 6. MobX
 
 The next chapters of the book will dive into an alternative library that provides a state management solution: MobX. However, the book will not allocate the same space as for Redux and thus not deeply dive into the topic. Because MobX doesn't follow an opinionated way of how to structure your state management, it is difficult to tackle it from all angles. There are several ways on where to put your state and how to update it. The book shows only a few opinionated ways, but doesn't showcase all of them.
 

@@ -1,4 +1,4 @@
-## Persistence in State
+## 3.4 Persistence in State
 
 State in applications is often not persistent. When your application starts, there is often an initial state, but there is not database to recreate the state from a previous session. However, in your application the state updates when the user interacts with the application (local data) or data arrives from a backend application (remote data). You may wonder whether there is a way to persist the state so that it can be used as initial state when the application starts again. The question applies to both, local state management and sophisticated state management later on.
 

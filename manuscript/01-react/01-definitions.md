@@ -1,12 +1,12 @@
-## 2.1 정의
+## 1.1 정의
 
 상태 관리를 본격적으로 시작하기에 앞서 이 책의  장에서 일반적인 상태 this chapter gives you general definitions and definitions for state managements to build up a common vocabulary for state management for this book. It should help you to follow the book effortlessly when reading it without leaving space for confusion.
 
-### 2.1.1 순수 함수
+### 1.1.1 순수 함수
 
 Pure functions is a concept from the functional programming paradigm. It says that a pure function always returns the same output if given the same input. There is no layer in between that could alter the output on the way when the input doesn't change. The layer in between, that could possibly alter the output, is called **side-effect**. Thus, pure functions have no side-effects. Two major benefits of these pure functions are predictability and testability.
 
-### 2.1.2 불변성
+### 1.1.2 불변성
 
 Immutability is a concept of functional programming, too. It says that a data structure is immutable when it cannot be changed. When there is the need to modify the immutable data structure, for instance an object, you would always return a new object. Rather than altering the object at hand, you would create a new object based on the old object and the modification. The old and new object would have their own instances.
 
